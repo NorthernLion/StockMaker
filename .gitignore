@@ -1,0 +1,6 @@
+/node_modules/*
+/stockfront/node_modukes/*
+.env
+package-lock.json
+/stockfront/package-lock.json
+/stockfront/build

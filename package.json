@@ -1,0 +1,27 @@
+{
+  "name": "stockmaker",
+  "version": "1.0.0",
+  "description": "Readme on tehty muistilistaksi itselleni. Muokataan myöhemmin luettavampaan muotoon.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorthernLion/StockMaker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NorthernLion/StockMaker/issues"
+  },
+  "homepage": "https://github.com/NorthernLion/StockMaker#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
