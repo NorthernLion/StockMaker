@@ -20,7 +20,8 @@
   "homepage": "https://github.com/NorthernLion/StockMaker#readme",
   "dependencies": {
     "cors": "^2.8.4",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mongoose": "^5.0.9"
   },
   "devDependencies": {
     "nodemon": "^1.17.1"
