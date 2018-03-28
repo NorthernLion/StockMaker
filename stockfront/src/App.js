@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
+import Button from 'material-ui/Button';
 
 class App extends React.Component {
   componentWillMount() {
@@ -7,9 +8,9 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="App">
-        <p>Hello World I am the app</p>
-      </div>
+      <Button variant="raised" color="primary">
+        Hello World
+      </Button>
     )
   }
 }
