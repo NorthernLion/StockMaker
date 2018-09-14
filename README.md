@@ -12,4 +12,5 @@ http://recharts.org/#/en-US osakekurssien seuraamiseen ja https://material-ui-ne
 # Dokumentaatio
 
 [Tuntikirjanpito](https://docs.google.com/spreadsheets/d/1xZE1Vc278gzcCzjVdzPJvZy9NSFiMKhDvKMAzwatM_E/edit#gid=0) 
+[Trello](https://trello.com/b/RRICrfLe/jsstock)
 
